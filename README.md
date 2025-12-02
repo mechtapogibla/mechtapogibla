@@ -9,6 +9,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/1350867446969405491">
-    <img src="https://lanyard.cnrad.dev/api/1350867446969405491?theme=dark&bg=0d1117&borderRadius=22px&animated=true&hideTimestamp=false&idleMessage=Не+в+онлайне+...+%F0%9F%91%8B" alt="Discord Presence"/>
+    <img src="https://lanyard.cnrad.dev/api/1350867446969405491?theme=dark&bg=0f0f1e&accent=00ffaa&borderRadius=25px&animated=true&glow=true&showDisplayName=true" />
   </a>
 </p>
